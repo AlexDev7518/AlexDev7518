@@ -6,13 +6,7 @@
 
 - :telescope: I'm Currently Working on a [**Free Discord Bot Shop For All Users!**](https://discord.gg/roverdev)
 
-- :seedling: I'm Coding with Following Stuff:
-
--: Javascript
--: Typescript
--: Python
--: Html
--: CSS
+- :seedling: I'm Coding with Following Stuff: Javascript, Typescript, Python, Html, CSS
 
 <br/>
 
