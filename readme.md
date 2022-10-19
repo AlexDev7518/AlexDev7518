@@ -1,4 +1,4 @@
-## <div align="center">Hey, I'm ceeq im Creating Bot's Since 2022! :rocket:</div>  
+## <div align="center">Hey, I'm Alexdev im Creating Bot's Since 2020! :rocket:</div>  
 
 ![](https://discord.c99.nl/widget/theme-3/663442537222242306.png) 
 
