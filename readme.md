@@ -4,7 +4,7 @@
 
 ***
 
-- :telescope: I'm Currently Working on a [**Free Discord Bot Shop For All USers!**](https://discord.gg/roverdev)
+- :telescope: I'm Currently Working on a [**Free Discord Bot Shop For All Users!**](https://discord.gg/roverdev)
 
 - :seedling: I'm Coding with Javascript and Htmt and css and python and TypeScript
 
