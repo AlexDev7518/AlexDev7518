@@ -1,6 +1,10 @@
 ## <div align="center">Hey, I'm Alexdev im Creating Bot's Since 2020! :rocket:</div>  
 
-![](https://discord.c99.nl/widget/theme-3/663442537222242306.png)
+<div align="center">
+<img src="https://discord.c99.nl/widget/theme-2/663442537222242306.png" />
+</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lowscarlet&label=Profile%20views&color=0e75b6&style=flat" alt="AlexDev7518" /> </p>
 
 ***
 
