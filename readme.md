@@ -17,4 +17,4 @@
 ***
 
 ## [Roverdev Development (Free Bots And Alot More)](https://discord.gg/roverdev)
-<a href="https://discord.gg/roverdev"><img src="https://discord.com/api/guilds/918153120981319730/widget.png?style=banner2"></a>
+<p align="center"> <a href="https://discord.gg/roverdev"><img src="https://discord.com/api/guilds/918153120981319730/widget.png?style=banner2"></a> </p>
