@@ -7,10 +7,9 @@
 
 ***
 
-- :telescope: I own a **Free Hosting** Company and Soon a **Free Botshop**, [**Join Roverdev Network Now!**](https://discord.gg/roverdev)
-
-- :seedling: I'm Coding with Following Stuff: Javascript, Typescript, Python, Html, CSS
-- :exploding_head: - Currently Working on [**Roverdev Website & Dashboard**](https://roverdev.xyz)
+## - :telescope: I own a **Free Hosting** Company and Soon a **Free Botshop**, [***Roverdev Network (Free Services, Hosting and Botshop!)***](https://discord.gg/roverdev)
+### - :seedling: I'm Coding with Following Stuff: Javascript, Typescript, Python, Html, CSS
+### - :exploding_head: - Currently Working on [**Roverdev Website & Dashboard**](https://roverdev.xyz)
 ***
 
 ## ***:link: Websites I've Made & Manage***
@@ -24,9 +23,3 @@
  - [3] Finishing Roverdev Manager & Staff system.
  - [4] Finishing Roverdev projects.
 <br/>
-
-***
-
-## [Roverdev Network (Free Services, Hosting and Botshop!)](https://discord.gg/roverdev)
-
-
