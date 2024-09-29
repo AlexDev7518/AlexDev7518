@@ -7,7 +7,7 @@
 
 ***
 
-## - :telescope: I own a **Free Hosting** Company and Soon a **Free Botshop**, [***Join Roverdev Network Now!***](https://discord.gg/roverdev)
+## - :telescope: I Own a Free Hosting & Soon Botshop, [***Join Roverdev Network Now!***](https://discord.gg/roverdev)
 ### - :seedling: I'm Coding with Following Stuff: Javascript, Typescript, Python, Html, CSS
 ### - :exploding_head: - Currently Working on [**Roverdev Website & Dashboard**](https://roverdev.xyz)
 ***
