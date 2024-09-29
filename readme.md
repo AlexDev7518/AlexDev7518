@@ -8,15 +8,26 @@
 
 ***
 
-- :telescope: I'm Currently Working on a [**Free Discord Bot Shop For All Users!**](https://discord.gg/roverdev)
+- :telescope: I own a **Free Hosting** Company and Soon a **Free Botshop**, [**Join Roverdev Network Now!**](https://discord.gg/roverdev)
 
 - :seedling: I'm Coding with Following Stuff: Javascript, Typescript, Python, Html, CSS
+- :exploding_head: - Currently Working on [**Roverdev Website & Dashboard**](https://roverdev.xyz)
 
+**:link: *Websites I've Made & Manage***
+- [RoverDev Main website](https://roverdev.xyz)
+- [RoverDocs](https://docs.roverdev.xyz)
+- [RoverDevAPI](https://api.roverdev.xyz)
+
+**:thinking: My Upcoming plans.**
+- **TOP / CURRENT:**  Finishing Ticket System, Rover Coins, Hosting.
+- Making a Full Functional Dashboard & API for Roverdev & Public.
+- Finishing Roverdev Manager & Staff system.
+- Finishing Roverdev projects.
 <br/>
 
 ***
 
-## [Roverdev Development (Free Bots And Alot More)](https://discord.gg/roverdev)
+## [Roverdev Network (Free Services, Hosting and Botshop!)](https://discord.gg/roverdev)
 <p align="center"> <a href="https://discord.gg/roverdev"><img src="https://discord.com/api/guilds/846548733914906664/widget.png?style=banner2"></a> </p>
 
 ***
