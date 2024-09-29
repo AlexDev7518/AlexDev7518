@@ -21,4 +21,4 @@
 
 ***
 
-<div align="center"> <img src="https://i.imgur.com/IA2YSC6.gif"> </p>
+<div align="center"> <img src="https://i.imgur.com/CbF3nqE.png"> </p>
