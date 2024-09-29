@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AlexDev7518&label=Profile%20views&color=00FFFF&style=flat" alt="AlexDev7518" /> </p>
 
 ***
-<div align="center"> <img src="https://i.imgur.com/CbF3nqE.png"/> /div>
+<div align="center"> <img src="https://i.imgur.com/CbF3nqE.png"/> </div>
 ***
 
 - :telescope: I own a **Free Hosting** Company and Soon a **Free Botshop**, [**Join Roverdev Network Now!**](https://discord.gg/roverdev)
