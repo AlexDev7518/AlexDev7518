@@ -1,5 +1,5 @@
 # <div align="center">Hey, I'm Alexdev im Creating Bot's Since 2020! :rocket:</div>  
-
+<p align="center"> <a href="https://discord.gg/roverdev"><img src="https://discord.com/api/guilds/846548733914906664/widget.png?style=banner2"></a> <img src="https://discord.c99.nl/widget/theme-2/663442537222242306.png"></p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AlexDev7518&label=Profile%20views&color=00FFFF&style=flat" alt="AlexDev7518" /> </p>
@@ -30,6 +30,5 @@
 ***
 
 ## [Roverdev Network (Free Services, Hosting and Botshop!)](https://discord.gg/roverdev)
-<p align="center"> <a href="https://discord.gg/roverdev"><img src="https://discord.com/api/guilds/846548733914906664/widget.png?style=banner2"></a> <img src="https://discord.c99.nl/widget/theme-2/663442537222242306.png"></p>
 
 
