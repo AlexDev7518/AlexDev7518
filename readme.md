@@ -13,12 +13,12 @@
 - :seedling: I'm Coding with Following Stuff: Javascript, Typescript, Python, Html, CSS
 - :exploding_head: - Currently Working on [**Roverdev Website & Dashboard**](https://roverdev.xyz)
 
-- **:link: *Websites I've Made & Manage***
+***:link: Websites I've Made & Manage***
  - [1] [RoverDev Main website](https://roverdev.xyz)
  - [2] [RoverDocs](https://docs.roverdev.xyz)
  - [3] [RoverDevAPI](https://api.roverdev.xyz)
 
-- **:thinking: My Upcoming plans.**
+ ***:thinking: My Upcoming plans.***
  - [1] **TOP / CURRENT:**  Finishing Ticket System, Rover Coins, Hosting.
  - [2] Making a Full Functional Dashboard & API for Roverdev & Public.
  - [3] Finishing Roverdev Manager & Staff system.
