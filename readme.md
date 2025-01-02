@@ -14,7 +14,6 @@
 
 ## ***:link: Websites I've Made & Manage***
  - [1] [RoverDev Main website](https://roverdev.xyz)
- - [2] [RoverDevAPI](https://api.roverdev.xyz)
 
 ## ***:thinking: My Upcoming plans.***
  - [1] **TOP / CURRENT:**  Finishing Ticket System, Rover Coins, Hosting.
