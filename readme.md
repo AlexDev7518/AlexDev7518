@@ -8,16 +8,15 @@
 ***
 
 ## :telescope: I Own a Free Hosting & Soon Botshop, [***Join Roverdev Network Now!***](https://discord.gg/roverdev)
-## :seedling: I'm Coding with Following Stuff: Javascript, Typescript, Python, Html, CSS
+## 🥇 I'm Coding with Following Stuff: Javascript, Typescript, Python, PHP, DiscordJS
+## 🧭 Ive mastered Many databases: MYSQL, Mongoose, Enmap, Josh, And many more!
 ## :exploding_head: Currently Working on [**Roverdev Website & Dashboard**](https://roverdev.xyz)
 ***
 
 ## ***:link: Websites I've Made & Manage***
  - [1] [RoverDev Main website](https://roverdev.xyz)
 
-## ***:thinking: My Upcoming plans.***
- - [1] **TOP / CURRENT:**  Finishing Ticket System, Rover Coins, Hosting.
- - [2] Making a Full Functional Dashboard & API for Roverdev & Public.
- - [3] Finishing Roverdev Manager & Staff system.
- - [4] Finishing Roverdev projects.
+## ***💣 My Upcomming Projects***
+- [1] Secret Project that is a big project that will break Hosting & Botshop Communities 🚀
+- [2] Work on Rover bot.
 <br/>
