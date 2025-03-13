@@ -1,23 +1,50 @@
-# <div align="center">Hey, I'm Alexdev im Creating Bot's Since 2020! :rocket: <img src="https://komarev.com/ghpvc/?username=AlexDev7518&label=Profile%20views&color=00FFFF&style=flat" alt="AlexDev7518" /></div>  
-<p align="center"><img src="https://discord.c99.nl/widget/theme-3/663442537222242306.png"> <a href="https://discord.gg/roverdev"><img src="https://discord.com/api/guilds/846548733914906664/widget.png?style=banner2"></a></p>
+<div align="center">
+
+# 👋 Hey, I'm **Alexdev** – Crafting Bots & Websites Since 2020! 🚀
+
+<img src="https://komarev.com/ghpvc/?username=AlexDev7518&label=Profile%20views&color=00FFFF&style=flat" alt="Profile Views" />
+
+</div>
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/663442537222242306.png" alt="Discord Profile" />
+  <a href="https://discord.gg/roverdev">
+    <img src="https://discord.com/api/guilds/846548733914906664/widget.png?style=banner2" alt="Join Roverdev Network" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/CbF3nqE.png" alt="RoverDev Logo" />
+</div>
+
+---
+
+## 💻 **About Me**
+
+I'm **Alexdev** – a developer who has been building **bots** and **websites** since 2020. I specialize in creating advanced, reliable, and efficient software. Whether it's complex Discord bots or fully responsive websites, I write the code that powers it all.
+---
+
+## 🛠️ **Tech I Work With:**
+
+- **Languages:** JavaScript, TypeScript, Python, PHP, Discord.js
+- **Databases:** MySQL, Mongoose, Enmap, Josh, and more
+- **Frameworks & Tools:** Next.js, Laravel, Node.js, React, Tailwind CSS
+
+---
+
+## 🚀 **Projects I'm Working On:**
+
+1. 🛠️ **[Neptune Studios](https://neptunestudios.dev)** – An advanced bot shop & hosting platform.  
+2. 🤖 **Rover Bot** – A powerful, constantly evolving Discord bot.  
+3. 🌐 **Custom Platforms** – Building custom tools to push boundaries and optimize performance.  
+
+---
+
+## 🌐 **Websites I Built & Manage:**
+
+- 🌌 [**Neptune Studios**](https://neptunestudios.dev) – Cutting-edge bot shop & hosting.  
+- 🌐 [**RoverDev** – Main Website](https://roverdev.xyz) – My main hub for everything I build.  
 
 
-***
-<div align="center"> <img src="https://i.imgur.com/CbF3nqE.png"/> </div>
-
-***
-
-## :telescope: I Own a Free Hosting, [***Join Roverdev Network Now!***](https://discord.gg/roverdev)
-## 🥇 I'm Coding with Following Stuff: Javascript, Typescript, Python, PHP, DiscordJS
-## 🧭 Ive mastered Many databases: MYSQL, Mongoose, Enmap, Josh, And many more!
-## :exploding_head: Currently Working on [**Neptne studuios**](https://neptunestudios.dev/)
-***
-
-## ***:link: Websites I've Made & Manage***
- - [1] [RoverDev Main website](https://roverdev.xyz)
- - [2] [Neptne studuios](https://neptunestudios.dev/)
-
-## ***💣 My Upcomming Projects***
-- [1] Neptune Studios - Bot shop & Hosting (Roverdev rebrand and remake)
-- [2] Work on Rover bot.
-<br/>
