@@ -38,13 +38,12 @@ I'm **Alexdev** – a developer who has been building **bots** and **websites** 
 
 1. 🛠️ **[Neptune Studios](https://neptunestudios.dev)** – An advanced bot shop & hosting platform.  
 2. 🤖 **Rover Bot** – A powerful, constantly evolving Discord bot.  
-3. 🌐 **Custom Platforms** – Building custom tools to push boundaries and optimize performance.  
 
 ---
 
 ## 🌐 **Websites I Built & Manage:**
 
-- 🌌 [**Neptune Studios**](https://neptunestudios.dev) – Cutting-edge bot shop & hosting.  
-- 🌐 [**RoverDev** – Main Website](https://roverdev.xyz) – My main hub for everything I build.  
+- 🌌 [**Neptune Studios**](https://neptunestudios.dev) – My new Project I am working on.  
+- 🌐 [**RoverDev** – Main Website](https://roverdev.xyz) – My first discord server, and Hosting!
 
 
