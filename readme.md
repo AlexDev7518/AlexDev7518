@@ -10,12 +10,12 @@
 ## :telescope: I Own a Free Hosting, [***Join Roverdev Network Now!***](https://discord.gg/roverdev)
 ## 🥇 I'm Coding with Following Stuff: Javascript, Typescript, Python, PHP, DiscordJS
 ## 🧭 Ive mastered Many databases: MYSQL, Mongoose, Enmap, Josh, And many more!
-## :exploding_head: Currently Working on [**Roverdev Website & Dashboard**](https://roverdev.xyz)
+## :exploding_head: Currently Working on [**Neptne studuios**](https://neptunestudios.dev/)
 ***
 
 ## ***:link: Websites I've Made & Manage***
  - [1] [RoverDev Main website](https://roverdev.xyz)
- - [2] [Neptune studios](https://neptunestudios.dev/)
+ - [2] [Neptne studuios](https://neptunestudios.dev/)
 
 ## ***💣 My Upcomming Projects***
 - [1] Neptune Studios - Bot shop & Hosting (Roverdev rebrand and remake)
