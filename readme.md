@@ -8,15 +8,15 @@
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/663442537222242306.png" alt="Discord Profile" />
-  <a href="https://discord.gg/roverdev">
+  <!-- <a href="https://discord.gg/roverdev">
     <img src="https://discord.com/api/guilds/1136044363105964102/widget.png?style=banner2" alt="Join Roverdev Network" />
-  </a>
+  </a> -->
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/CbF3nqE.png" alt="RoverDev Logo" />
+  <img src="https://imgur.com/klbteSQ.png" alt="StormHQ Logo" />
 </div>
 
 ---
