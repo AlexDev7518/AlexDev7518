@@ -42,8 +42,5 @@ I'm **Alexdev** – a developer who has been building **bots** and **websites** 
 ---
 
 ## 🌐 **Websites I Built & Manage:**
-
-~~ 🌌 [**Roverdev**](https://roverdevhq.com) – My existing project I've been working on ~~
-
 - 🌩️ [**Storm HQ**](https://soon.com) - My new project that is for everything of your needs.
 
